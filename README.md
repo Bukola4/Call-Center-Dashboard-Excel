@@ -5,6 +5,6 @@ The primary dataset used is the "call-centre.csv" file.
 Link to the dataset: [Download here]( https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Call+Center.csv)
 
 
-![The Dashboard](https://github.com/Bukola4/Call-Center-Dashboard-Excel/assets/106938332/650f7488-1d95-4388-a685-a578fae3424b)
+
 
 
