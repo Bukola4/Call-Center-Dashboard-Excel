@@ -4,4 +4,4 @@ This is a Call Center dashboard created with data from October 2020. I used data
 The primary dataset used is the "call-centre.csv" file.
 Link to the dataset: [Download here]( https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Call+Center.csv)
 
-![Dashboard]("C:\Users\Saheed\Documents\Call Center Dashboard1.xlsx")
+![Dashboard]("C:\Users\Saheed\Desktop\Dashboard.jpg")
